@@ -1,0 +1,30 @@
+# Git
+.git
+.gitignore
+
+# IDE
+.idea
+.vscode
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+*~
+
+# Test files
+*_test.go
+
+# Build files
+bin/
+dist/
+
+# Docker
+Dockerfile
+.dockerignore
+
+# Others
+README.md
+LICENSE
+*.md 
